@@ -70,6 +70,34 @@
     <Compile Include="Migrations\202109011309528_mig1.designer.cs">
       <DependentUpon>202109011309528_mig1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202109131402565_mig_writer_edit.cs" />
+    <Compile Include="Migrations\202109131402565_mig_writer_edit.designer.cs">
+      <DependentUpon>202109131402565_mig_writer_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202109131617317_mig_writertitle_add.cs" />
+    <Compile Include="Migrations\202109131617317_mig_writertitle_add.designer.cs">
+      <DependentUpon>202109131617317_mig_writertitle_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202109141259148_mig_imagesizechange.cs" />
+    <Compile Include="Migrations\202109141259148_mig_imagesizechange.designer.cs">
+      <DependentUpon>202109141259148_mig_imagesizechange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202109141341484_mig_addstatus.cs" />
+    <Compile Include="Migrations\202109141341484_mig_addstatus.designer.cs">
+      <DependentUpon>202109141341484_mig_addstatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202109141422208_mig_contentstatus.cs" />
+    <Compile Include="Migrations\202109141422208_mig_contentstatus.designer.cs">
+      <DependentUpon>202109141422208_mig_contentstatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202109141427497_mig_headingstatus.cs" />
+    <Compile Include="Migrations\202109141427497_mig_headingstatus.designer.cs">
+      <DependentUpon>202109141427497_mig_headingstatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202109141718593_mig_aboutstatus.cs" />
+    <Compile Include="Migrations\202109141718593_mig_aboutstatus.designer.cs">
+      <DependentUpon>202109141718593_mig_aboutstatus.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -86,6 +114,27 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202109011309528_mig1.resx">
       <DependentUpon>202109011309528_mig1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202109131402565_mig_writer_edit.resx">
+      <DependentUpon>202109131402565_mig_writer_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202109131617317_mig_writertitle_add.resx">
+      <DependentUpon>202109131617317_mig_writertitle_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202109141259148_mig_imagesizechange.resx">
+      <DependentUpon>202109141259148_mig_imagesizechange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202109141341484_mig_addstatus.resx">
+      <DependentUpon>202109141341484_mig_addstatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202109141422208_mig_contentstatus.resx">
+      <DependentUpon>202109141422208_mig_contentstatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202109141427497_mig_headingstatus.resx">
+      <DependentUpon>202109141427497_mig_headingstatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202109141718593_mig_aboutstatus.resx">
+      <DependentUpon>202109141718593_mig_aboutstatus.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -15,3 +15,10 @@ C:\Users\firatalcin\Desktop\MvcProje-MY\MvcProjectCamp\DataAccessLayer\obj\Debug
 C:\Users\firatalcin\Desktop\MvcProje-MY\MvcProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 C:\Users\firatalcin\Desktop\MvcProje-MY\MvcProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
 C:\Users\firatalcin\Desktop\MvcProje-MY\MvcProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\firatalcin\Desktop\MvcProje-MY\MvcProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
+C:\Users\firatalcin\Desktop\MvcProje-MY\MvcProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
+C:\Users\firatalcin\Desktop\MvcProje-MY\MvcProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
+C:\Users\firatalcin\Desktop\MvcProje-MY\MvcProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addstatus.resources
+C:\Users\firatalcin\Desktop\MvcProje-MY\MvcProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contentstatus.resources
+C:\Users\firatalcin\Desktop\MvcProje-MY\MvcProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatus.resources
+C:\Users\firatalcin\Desktop\MvcProje-MY\MvcProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_aboutstatus.resources
